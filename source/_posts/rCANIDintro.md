@@ -3,3 +3,10 @@ title: rCANIDintro
 date: 2018-09-02 05:56:33
 tags:
 ---
+# rCANID: read Clustering and Assembly-based Novel Insertion Detection tool
+
+## This is a work made by Tao jiang, Yilei Fu, and professors in HIT Bioinformation Centre.
+
+![image](../images/rCANID/overview.png)
+
+
