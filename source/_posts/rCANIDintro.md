@@ -7,6 +7,6 @@ tags: biofinormatics, papers, mywork
 
 ## This is a work made by Tao jiang, Yilei Fu, and professors in HIT Bioinformation Centre.
 
-![image](../images/rCANID/overview.png)
+![image](/source/images/rCANID/overview.png)
 
 
